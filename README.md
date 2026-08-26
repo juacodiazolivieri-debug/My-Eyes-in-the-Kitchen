@@ -35,3 +35,7 @@ The system relies on a cooperative multi-agent architecture powered by modern cl
 * **Core Capabilities:** Computer Vision, Generative AI (LLMs), Text-to-Speech (TTS), and Context Memory.
 
 ---
+
+## 📄 License
+
+* **​This project is open source and available under the MIT License.
